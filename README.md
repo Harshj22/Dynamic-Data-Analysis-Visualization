@@ -97,4 +97,4 @@ This makes the project closer to a **data analysis tool** rather than a simple a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/dynamic-data-analysis-visualization.git
+   git clone https://github.com/Harshj22/Dynamic-Data-Analysis-Visualization
